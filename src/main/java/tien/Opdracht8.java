@@ -1,4 +1,4 @@
-package main.java;
+package main.java.tien;
 
 /**
  * Created by AL13685 on 9-5-2018.
