@@ -46,7 +46,6 @@ public class Opdracht12 {
             }
 
             if (counter < 500) {
-                counter = 0;
                 triangleNumber = triangleNumber + 1;
                 numberToTest = numberToTest + triangleNumber;
 
