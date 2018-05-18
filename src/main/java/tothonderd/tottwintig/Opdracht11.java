@@ -1,4 +1,4 @@
-package main.java.twintig;
+package main.java.tothonderd.tottwintig;
 
 /**
  * Created by AL13685 on 11-5-218.

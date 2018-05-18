@@ -1,4 +1,4 @@
-package main.java.twintig;
+package main.java.tothonderd.tottwintig;
 
 import java.util.ArrayList;
 import java.util.List;
